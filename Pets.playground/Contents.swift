@@ -1,5 +1,5 @@
 var petName: String?
-petName = "Scooter 🐢"
+petName = "Scoot 🐢"
 print(petName)
 
 if petName != nil {
